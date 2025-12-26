@@ -1,0 +1,8 @@
+{
+  "name": "Maçã ART",
+  "description": "Criação de artes para redes sociais com Inteligência Artificial. Posts, Stories e Status em segundos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
